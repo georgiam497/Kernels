@@ -37,7 +37,7 @@ if nrow==ncol
 else fprintf('The Matrix is Not Square');
      disp('*********');
     
-   % gets here if only if the matrix is not square
+   % gets here only if the matrix is not square
 
 end
 
