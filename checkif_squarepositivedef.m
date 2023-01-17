@@ -1,7 +1,7 @@
 function [outputArg1,outputArg2] = checkif_squarepositivedef(inputArg1,inputArg2)
 % inputArg1 - square matrix
 % inputArg2 - the constant added to the diagonal
-% the function checks if the matrix is a square semidefinite positive matrix, if it is not it transforms it to one
+% the function checks if the matrix is a square semidefinite positive matrix, if it is not it transforms into to one
 % if the matrix has negative eigenvalues - the function should fix them
 % (condition number of a matrix needs to be as low as possible)
 
